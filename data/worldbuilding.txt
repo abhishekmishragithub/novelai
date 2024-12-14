@@ -1,0 +1,4 @@
+Races: Elves, Dwarves, Humans, Goblins
+Magic: Elemental magic, Healing magic, Necromancy
+Locations: Elvendale Forest, Ironpeak Mountains, Silverstream City
+History: The Great War, The Founding of Silverstream, The Dragon Accords

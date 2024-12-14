@@ -1,0 +1,3 @@
+Archetypes: The Hero, The Mentor, The Shadow, The Trickster
+Traits: Brave, Wise, Cunning, Loyal, Greedy
+Dialogue Styles: Formal, Informal, Sarcastic, Melancholic
